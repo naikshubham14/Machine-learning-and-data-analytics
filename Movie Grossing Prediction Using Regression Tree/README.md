@@ -1,1 +1,1 @@
-Note: If the notebook doesnt render in github because of an angoing issue with github just [click here]()
+Note: If the notebook doesnt render in github because of an angoing issue with github just [click here](https://nbviewer.jupyter.org/github/naikshubham14/Machine-learning-and-data-analytics/blob/main/Movie%20Grossing%20Prediction%20Using%20Regression%20Tree/Movie%20Dataset-Decision%20Tree%28Regression%29.ipynb)
